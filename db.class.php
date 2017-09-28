@@ -12,9 +12,9 @@ class db
 //	var $password =PASSWORD;//db password; 
 
     var $db;
-	var $dsn="mysql:host=localhost;dbname=lergerator";//db server; 
-	var $username ="root";//db username; 
-	var $password ="asdfjkl";//db password;
+	var $dsn="mysql:host=localhost;dbname=***";//db server; 
+	var $username ="***";//db username; 
+	var $password ="***";//db password;
 
 
     /**
